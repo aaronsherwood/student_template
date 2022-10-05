@@ -1,4 +1,4 @@
-# Student Webstie Template
+# Student Website Template
 
 This is for a basic student portfolio site with static home, works, and about pages as well as a wordpress.org blog.
 
